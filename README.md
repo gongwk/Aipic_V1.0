@@ -8,12 +8,15 @@
 3. OpenCV3.2 with opencv_contrib 
 
 **软件功能**
-
 > 
 1.图像文件批量导入和浏览
+
 2.图像特征提取和可视化： SIFT SURF ORB LBP HOG Hist
+
 3.Hand-Crafted分类器训练： 分类器支持 SVM、KNN ，特征支持： ORB SIFT SURF（BOW处理，CPU计算）
+
 4.基于Caffe的CNN图像分类（GPU计算）
+
 5.TODO：Caffe CNN feature vision
 
 **软件使用教程**
