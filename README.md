@@ -3,7 +3,7 @@
 
 **前提条件**
 > 
-    1. Caffe C++ 接口，或者 OpenCV dnn 模块。（推荐使用前者，更方便灵活） 
+    1. Caffe C++ 接口，或者 OpenCV dnn 模块。（推荐使用前者，更方便灵活） 需要首先编译好exe文件：CaffeSeg.exe,并替换tools下的该软件，工程在这里https://github.com/muyouhang/CaffeSeg
     2. VS2015 编译器，这是由于OpenCV3.2对C++11特性的要求
     3. OpenCV3.2 with opencv_contrib 
 
