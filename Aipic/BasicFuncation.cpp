@@ -309,3 +309,7 @@ void BasicFuncation::GetAllFormatFiles(string path, vector<string>& files, strin
 		_findclose(hFile);
 	}
 }
+
+void DoTest(){
+	int count = 0;
+}
