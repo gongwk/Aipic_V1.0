@@ -312,4 +312,5 @@ void BasicFuncation::GetAllFormatFiles(string path, vector<string>& files, strin
 
 void DoTest(){
 	int count = 0;
+	double test = 0.0;
 }
